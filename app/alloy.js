@@ -11,7 +11,7 @@
 // Alloy.Globals.someGlobalFunction = function(){};
 
 // Import the Kinvey module.
-var Kinvey = Alloy.Globals.Kinvey = require('kinvey-titanium-1.0.2');
+var Kinvey = Alloy.Globals.Kinvey = require('kinvey-titanium-1.0.3');
 
 // Initialize Kinvey.
 Kinvey.init({
