@@ -4,7 +4,6 @@ Resources
 tmp
 .fastdev.lock
 .map
-.project
 .settings
 build.log
 npm-debug.log
